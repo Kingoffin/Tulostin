@@ -16,3 +16,10 @@ public class TulostinOhjelma {
 		
 		double jako = luku1 / luku2;
 	
+		
+		System.out.println("Hei olen Tulostin-ohjelma");
+		
+		String tekija = "Kalle Peltonen";
+		
+		System.out.println("Ohjelman tekijä: " + tekija);
+		
